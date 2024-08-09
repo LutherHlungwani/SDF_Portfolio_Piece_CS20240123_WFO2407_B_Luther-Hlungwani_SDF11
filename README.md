@@ -15,5 +15,5 @@ npm run build-minify
 
 ```
 
-# Presentation Talking Points and Presentation Slide Template
-Check out the Project Overview in this GitHub Repo for the guide to talking points for your presentation as well the starter template for your Google Slides here: https://github.com/CodeSpace-Academy/SDF_Portfolio_Piece_StudentNo_Classcode_Group_Name-Surname_SDF11/blob/main/11_portfolio_piece_1.md
+# Video Presentation
+https://www.loom.com/share/11201fd7024049a5a91bd74ad86b5623?sid=d34c7d1c-d89e-4564-9f08-b25edbf4d77c
